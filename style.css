@@ -60,3 +60,12 @@ button:hover {
     background-color: #9b59b6;
 }
 
+.erase-btn{
+    width:95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h5{
+    margin:0;
+}
