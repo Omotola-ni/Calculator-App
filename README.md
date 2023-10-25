@@ -1,4 +1,4 @@
-# Calculator-App
+# Calculator App
 
 Creating a README for a GitHub repository is an essential part of sharing your project with the community. Here's a sample README for your calculator app repository:
 
